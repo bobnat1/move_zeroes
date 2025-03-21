@@ -2,8 +2,8 @@
 The objective of the Move Zeroes problem is to take a list and filter out all the zeroes by moving them to the back of the list.
 
 ## Real World use cases
-### Filtering Data:
-    This algorithim can be used as a simple solution to do a basic data cleanse. For example, you imported a spreadsheet in Python and you need to filter out redundant data that is only convoluting the main data. At the same time, you need to retain all of the data and avoid data loss. Instead of deleting the redundant data, you could use a method like Move Zeroes to move the elements to the back of your list  -  which would effectively retain the data. Please refer to the move_element.py file for reference.
+### Filtering Data
+This algorithim can be used as a simple solution to do a basic data cleanse. For example, you imported a spreadsheet in Python and you need to filter out redundant data that is only convoluting the main data. At the same time, you need to retain all of the data and avoid data loss. Instead of deleting the redundant data, you could use a method like Move Zeroes to move the elements to the back of your list  -  which would effectively retain the data. Please refer to the move_element.py file for reference.
 
 ##  My Approach
 My approach is very simple with this problem - here is the psuedo code in order:
